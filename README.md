@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/armando-couto/angucomplete.svg?branch=master)](https://travis-ci.org/armando-couto/angucomplete)
+
 angucomplete
 ============
 
